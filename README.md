@@ -45,7 +45,7 @@ I enjoy contributing to open-source projects, building machine learning models, 
 - I love to share my knowledge and contribute to open-source projects.
 - When I’m not coding, I enjoy reading books on philosophy and psychology.
  
-<h2 align="center" ><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px"> My Technology Stack</h2>
+<h2 align="left" ><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px"> My Technology Stack</h2>
 
 ###
 
@@ -94,7 +94,6 @@ I enjoy contributing to open-source projects, building machine learning models, 
   
 </div>
 
+---
 
-
-## Thanks for stopping by! Feel free to reach out if you'd like to collaborate or chat about AI, machine learning, or anything tech-related! 🚀
--->
+Thanks for stopping by! Feel free to reach out if you'd like to collaborate or chat about AI, machine learning, or anything tech-related! 🚀
