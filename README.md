@@ -94,5 +94,7 @@ I enjoy contributing to open-source projects, building machine learning models, 
   
 </div>
 
-Thanks for stopping by! Feel free to reach out if you'd like to collaborate or chat about AI, machine learning, or anything tech-related! 🚀
+
+
+## Thanks for stopping by! Feel free to reach out if you'd like to collaborate or chat about AI, machine learning, or anything tech-related! 🚀
 -->
