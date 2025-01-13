@@ -94,6 +94,36 @@ I enjoy contributing to open-source projects, building machine learning models, 
   
 </div>
 
+###
+</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saanjanaa17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <!--img src="https://streak-stats.demolab.com?user=saanjanaa17&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saanjanaa17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<!-- <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  /> -->
+
+###
+<!-- 
+![snake animation](https://github.com/adityab24840/adityab24840/blob/output/github-contribution-grid-snake2.svg) -->
+
+###
+
+<!-- <div align="left">
+  <a href="https://open.spotify.com/user/21b5y5ykev5o5jehj7n5cgnya">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div> -->
+
+
+###
+
 ---
 
 Thanks for stopping by! Feel free to reach out if you'd like to collaborate or chat about AI, machine learning, or anything tech-related! 🚀
