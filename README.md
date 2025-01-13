@@ -6,8 +6,7 @@ Welcome to my GitHub profile! I'm currently pursuing my **Master's degree in Eng
 
 - 🎓 **Master's in Engineering (AIML)** – I'm currently deepening my knowledge in AI and ML through advanced research and projects.
 - 🎓 **Bachelor's in Electronics & Communication Engineering (ECE)** – Completed my undergrad with a strong focus on electronics, signal processing, and communication systems, which sparked my interest in the intersection of hardware and software in AI/ML applications.
-- 💻 **Tech Enthusiast** – Constantly learning about new advancements in AI, data science, and engineering.
-- 🤖 **AI/ML Practitioner** – Passionate about building intelligent systems and applying machine learning models to solve real-world problems.
+- 💻 **Tech Enthusiast** – Constantly learning about new advancements in AI, data science, and engineering. Passionate about building intelligent systems and applying machine learning models to solve real-world problems.
 - 🌱 **Currently Learning** – Exploring advanced topics in deep learning, reinforcement learning, and computer vision.
 - 📚 **My Interests** – Data analytics, neural networks, natural language processing, and ethical AI.
 
@@ -43,7 +42,6 @@ I enjoy contributing to open-source projects, building machine learning models, 
 
 - I’m an avid reader of AI/ML research papers and tech blogs.
 - I love to share my knowledge and contribute to open-source projects.
-- When I’m not coding, I enjoy reading books on philosophy and psychology.
  
 <h2 align="left" ><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px"> My Technology Stack</h2>
 
