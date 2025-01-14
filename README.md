@@ -1,14 +1,14 @@
 # Hi there! I'm Sanjana Alva 👋
 
-Welcome to my GitHub profile! I'm currently pursuing my **Master's degree in Engineering** with a specialization in **Artificial Intelligence & Machine Learning** (AIML). I completed my **Bachelor's degree in Electronics and Communication Engineering (ECE)**, which provided me with a strong foundation in electronics, signal processing, and communication systems, and ultimately led me to discover my passion for AI and data science. I’m excited about leveraging technology to solve complex problems and innovate across industries. Here's a little more about me:
+Welcome to my GitHub profile! I'm currently pursuing my **Master's degree in Engineering** with a specialization in **Artificial Intelligence & Machine Learning** (AIML). I completed my **Bachelor's degree in Electronics and Communication Engineering (ECE)**, which provided me with a strong foundation in electronics, signal processing, and communication systems, and ultimately led me to discover my passion for AI and data science. I’m excited about leveraging technology to solve complex problems and innovate across industries.
 
-## 🚀 About Me
+<!--## 🚀 About Me
 
 - 🎓 **Master's in Engineering (AIML)** – I'm currently deepening my knowledge in AI and ML through advanced research and projects.
 - 🎓 **Bachelor's in Electronics & Communication Engineering (ECE)** – Completed my undergrad with a strong focus on electronics, signal processing, and communication systems, which sparked my interest in the intersection of hardware and software in AI/ML applications.
 - 💻 **Tech Enthusiast** – Constantly learning about new advancements in AI, data science, and engineering. Passionate about building intelligent systems and applying machine learning models to solve real-world problems.
 - 🌱 **Currently Learning** – Exploring advanced topics in deep learning, reinforcement learning, and computer vision.
-<!-- 📚 **My Interests** – Data analytics, neural networks, natural language processing, and ethical AI.-->
+<!-- 📚 **My Interests** – Data analytics, neural networks, natural language processing, and ethical AI.-->-->
 
 ## 🛠️ Technologies & Tools
 
@@ -34,14 +34,14 @@ I enjoy contributing to open-source projects, building machine learning models, 
 - Generative AI with Large Language Models – DeepLearning.AI (Coursera)
 - Deep Reinforcement Learning – HuggingFace [Ongoing]
 
-## 🌍 Let's Connect!
+<!--## 🌍 Let's Connect!
 
 - 📧 **Email**: sanjanayalva@gmail.com
 
 ## 💬 Fun Facts
 
 - I’m an avid reader of AI/ML research papers and tech blogs.
-- I love to share my knowledge and contribute to open-source projects.
+- I love to share my knowledge and contribute to open-source projects.-->
  
 <h2 align="left" ><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px"> My Technology Stack</h2>
 
