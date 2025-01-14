@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm currently pursuing my **Master's degree in Eng
 - 🎓 **Bachelor's in Electronics & Communication Engineering (ECE)** – Completed my undergrad with a strong focus on electronics, signal processing, and communication systems, which sparked my interest in the intersection of hardware and software in AI/ML applications.
 - 💻 **Tech Enthusiast** – Constantly learning about new advancements in AI, data science, and engineering. Passionate about building intelligent systems and applying machine learning models to solve real-world problems.
 - 🌱 **Currently Learning** – Exploring advanced topics in deep learning, reinforcement learning, and computer vision.
-- 📚 **My Interests** – Data analytics, neural networks, natural language processing, and ethical AI.
+<!-- 📚 **My Interests** – Data analytics, neural networks, natural language processing, and ethical AI.-->
 
 ## 🛠️ Technologies & Tools
 
