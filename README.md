@@ -20,7 +20,7 @@ Here are the tools I use frequently in my projects and studies:
 - **Web Development:** HTML, CSS, Flask
 - **Cloud & DevOps:** AWS, Docker, Kubernetes, Git
 - **Databases:** MySQL
-- **Version Control:** Git, GitHub
+- **Version Control:** Git, GitHub , Github Actions
 
 ## 💼 Projects
 
